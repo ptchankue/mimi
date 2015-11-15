@@ -1,0 +1,869 @@
+11:12:18 PM, Driver, call patrick
+11:12:34 PM, Driver, call janet
+08:38:17 PM, Driver, call patrick
+08:38:37 PM, Driver, call patrick
+08:38:40 PM, Driver, call patrick
+08:38:43 PM, Driver, call patrick
+08:38:47 PM, Driver, call patrick
+08:38:51 PM, Driver, call patrick
+08:38:57 PM, Driver, cancel
+08:38:57 PM, System, Cancelling...
+08:39:01 PM, Driver, what time is it?
+08:39:01 PM, System, the time is 8  39
+08:39:06 PM, Driver, what time is it?
+08:39:06 PM, System, the time is 8  39
+08:39:11 PM, Driver, what time is it?
+08:39:11 PM, System, the time is 8  39
+08:39:57 PM, Driver, call patrick
+08:39:57 PM, System, Do you want to call patrick. Say 'Yes' or 'No'
+08:40:14 PM, Driver, agreed
+08:40:14 PM, System, Calling patrick on 0768354159
+08:40:21 PM, Driver, cancel
+08:40:21 PM, System, Cancelling...
+08:40:23 PM, Driver, exit
+08:40:23 PM, System, Cancelling...
+08:40:29 PM, Driver, restart
+08:40:29 PM, System, Cancelling...
+08:40:31 PM, Driver, exit
+08:40:31 PM, System, Cancelling...
+10:48:00 AM, Driver, callback victor
+10:48:13 AM, System, Do you want to call back the last incoming contact John Doe ? Say 'Yes' or 'No' 
+01:16:31 PM, Driver, ok nah
+01:16:45 PM, System, Cancelling the callback request.
+01:16:53 PM, Driver, call patrick
+01:16:53 PM, System, Do you want to call patrick. Say 'Yes' or 'No'
+01:16:59 PM, Driver, yes
+01:16:59 PM, System, Calling patrick on 0768354159
+01:17:09 PM, Driver, call sanele
+01:17:09 PM, System, Do you want to call sanele. Say 'Yes' or 'No'
+01:17:14 PM, Driver, yes
+01:17:15 PM, System, Calling sanele on 0796786222
+01:17:31 PM, Driver, callback
+01:17:31 PM, System, Do you want to call back the last incoming contact John Doe ? Say 'Yes' or 'No' 
+01:17:40 PM, Driver, yes
+01:17:40 PM, System, Calling John Doe
+01:18:12 PM, Driver, redial
+01:18:23 PM, System, Do you want to redial John Doe ? Say 'Yes' or 'No' 
+01:18:30 PM, Driver, yes
+01:18:30 PM, System, Calling John Doe
+01:18:36 PM, Driver, call sanele
+01:18:36 PM, System, Do you want to call sanele. Say 'Yes' or 'No'
+01:18:43 PM, Driver, yes
+01:18:43 PM, System, Calling sanele on 0796786222
+01:18:57 PM, Driver, callback
+01:18:57 PM, System, Do you want to call back the last incoming contact John Doe ? Say 'Yes' or 'No' 
+01:19:02 PM, Driver, no
+01:19:02 PM, System, Cancelling the callback request.
+01:19:09 PM, Driver, <Button> Call
+01:19:09 PM, Driver, dial
+01:19:12 PM, Driver, time
+01:19:29 PM, Driver, cancel
+01:19:29 PM, System, Cancelling...
+01:19:37 PM, Driver, redial dieter
+01:19:37 PM, System, Do you want to redial Sanele ? Say 'Yes' or 'No' 
+01:19:43 PM, Driver, yes
+01:19:43 PM, System, Calling Sanele
+01:19:53 PM, Driver, sms janet
+01:19:53 PM, System, Do you want to  send a text message to janet. Say 'Yes' or 'No'
+01:20:00 PM, Driver, yes
+01:20:00 PM, System, Choose between the following options
+01:20:00 PM, System, 1- I am running late
+01:20:00 PM, System, 2- Appointment postponed
+01:20:00 PM, System, 3- I will call you later
+01:20:15 PM, Driver, one
+01:20:15 PM, System, Sending the text message 1- I am running late
+01:25:15 PM, Driver, <Button> Call
+01:25:15 PM, Driver, dial
+01:25:27 PM, Driver, dial
+01:25:27 PM, System, Sorry, your number  is  too short . Cancelling the command...
+01:25:34 PM, Driver, redial
+01:25:34 PM, System, Do you want to redial Sanele ? Say 'Yes' or 'No' 
+01:26:33 PM, Driver, nay
+01:26:33 PM, System, Cancelling the redial request.
+01:26:59 PM, Driver, call felix
+01:26:59 PM, System, Do you want to call felix. Say 'Yes' or 'No'
+01:27:05 PM, Driver, yes
+01:27:06 PM, System, Calling felix on 0789954545
+01:27:16 PM, Driver, time
+01:27:17 PM, System, the time is 1  27
+01:27:21 PM, Driver, what time is it?
+01:27:21 PM, System, the time is 1  27
+02:23:23 PM, Driver, what time is it?
+02:23:23 PM, System, the time is 2  23
+02:24:35 PM, Driver, what time is it?
+02:24:35 PM, System, the time is 2  24
+02:28:02 PM, Driver, what time is it?
+02:28:02 PM, System, the time is 2  28
+02:29:08 PM, Driver, what time is it?
+02:29:09 PM, System, the time is 2  29
+02:31:15 PM, Driver, what time is it?
+02:31:15 PM, System, the time is 2  31
+02:31:20 PM, System, the time is 2  31
+02:31:24 PM, Driver, call charmain
+02:31:24 PM, System, Do you want to call charmain. Say 'Yes' or 'No'
+02:31:29 PM, Driver, yes
+02:31:30 PM, System, Calling charmain on 0828240252
+02:31:37 PM, System, Calling charmain on 0828240252
+02:31:55 PM, Driver, <Button> Call
+02:31:55 PM, Driver, dial
+02:32:42 PM, Driver, re dial
+02:33:10 PM, Driver, re dial
+02:34:00 PM, Driver, callback
+02:34:07 PM, Driver, callback
+02:34:50 PM, Driver, callback
+02:36:46 PM, Driver, re dial
+02:37:40 PM, Driver, time
+02:37:45 PM, System, the time is 2  37
+02:38:57 PM, Driver, time
+02:39:01 PM, System, the time is 2  39
+02:39:12 PM, System, the time is 2  39
+02:39:20 PM, Driver, time
+02:39:28 PM, System, the time is 2  39
+02:42:19 PM, Driver, <Button> Call
+02:42:22 PM, Driver, dial
+02:42:33 PM, Driver, dial
+02:42:33 PM, System, Sorry, your number  is  too short . Cancelling the command...
+02:42:40 PM, Driver, <Button> Call
+02:42:40 PM, Driver, dial
+02:42:44 PM, Driver, cancel
+02:42:44 PM, System, Cancelling...
+02:42:47 PM, Driver, <Button> Call
+02:42:47 PM, Driver, dial
+02:42:49 PM, Driver, cancel
+02:42:49 PM, System, Cancelling...
+02:42:55 PM, Driver, <Button> Call
+02:42:55 PM, Driver, dial
+02:42:58 PM, Driver, dial
+02:42:58 PM, System, Sorry, your number  is  too short . Cancelling the command...
+02:43:06 PM, Driver, <Button> Call
+02:43:06 PM, Driver, dial
+02:43:10 PM, Driver, redial thandi time
+02:43:13 PM, Driver, dial
+02:43:13 PM, System, Sorry, your number  is  too short . Cancelling the command...
+02:47:10 PM, Driver, re dial
+02:48:40 PM, System, Do you want to redial Charmain ? Say 'Yes' or 'No' 
+02:48:47 PM, Driver, yes
+02:48:51 PM, System, Calling Charmain
+02:48:57 PM, Driver, callback
+02:48:57 PM, System, Do you want to call back the last incoming contact John Doe ? Say 'Yes' or 'No' 
+02:49:04 PM, Driver, yep please
+02:49:04 PM, System, Calling John Doe
+02:49:13 PM, Driver, sms time
+02:50:53 PM, Driver, <Button> Call
+02:52:26 PM, Driver, <Button> Call
+02:52:48 PM, System, Sorry, your number  is  too short . Cancelling the command...
+02:52:53 PM, Driver, <Button> Call
+02:55:53 PM, Driver, <Button> Call
+02:57:47 PM, Driver, <Button> Call
+03:00:14 PM, Driver, patrick
+03:02:05 PM, System, Do you want to call patrick. Say 'Yes' or 'No'
+03:02:33 PM, Driver, yes
+03:02:37 PM, System, Calling patrick on 0768354159
+03:02:44 PM, System, Calling patrick on 0768354159
+03:02:44 PM, Driver, repeat
+03:02:51 PM, Driver, re dial
+03:02:51 PM, System, Do you want to redial Patrick ? Say 'Yes' or 'No' 
+03:02:57 PM, Driver, yes
+03:02:57 PM, System, Calling Patrick
+03:03:01 PM, Driver, callback
+03:03:01 PM, System, Do you want to call back the last incoming contact John Doe ? Say 'Yes' or 'No' 
+03:03:09 PM, Driver, yes
+03:03:09 PM, System, Calling John Doe
+03:05:33 PM, Driver, <Button> Call
+03:05:36 PM, Driver, hot
+03:05:41 PM, Driver, janet
+03:05:47 PM, System, Do you want to call janet. Say 'Yes' or 'No'
+03:05:54 PM, Driver, no
+03:05:54 PM, System, Cancelling the call request.
+03:05:56 PM, Driver, <Button> Call
+03:05:59 PM, Driver, patrick
+03:05:59 PM, System, Do you want to call patrick. Say 'Yes' or 'No'
+03:06:05 PM, Driver, no
+03:06:05 PM, System, Cancelling the call request.
+03:06:53 PM, Driver, call number
+04:14:12 PM, Driver, call number
+08:04:53 PM, Driver, call number
+08:06:39 PM, Driver, <Button> Call
+08:06:39 PM, Driver, call
+08:06:43 PM, Driver, number
+08:06:51 PM, Driver, text
+08:06:54 PM, Driver, cancel
+08:06:54 PM, System, Cancelling...
+08:07:56 PM, Driver, <Button> Call
+08:07:56 PM, Driver, call
+08:08:03 PM, Driver, number
+08:08:03 PM, System, Please, dictate the telephone number and press call
+08:08:03 PM, System, Please, dictate the telephone number and press call
+08:08:03 PM, System, Please, dictate the telephone number and press call
+08:08:03 PM, System, Please, dictate the telephone number and press call
+08:08:03 PM, System, Please, dictate the telephone number and press call
+08:08:03 PM, System, Please, dictate the telephone number and press call
+08:08:04 PM, System, Please, dictate the telephone number and press call
+08:08:04 PM, System, Please, dictate the telephone number and press call
+08:08:04 PM, System, Please, dictate the telephone number and press call
+08:08:04 PM, System, Please, dictate the telephone number and press call
+08:08:05 PM, System, Please, dictate the telephone number and press call
+08:08:05 PM, System, Please, dictate the telephone number and press call
+08:08:05 PM, System, Please, dictate the telephone number and press call
+08:08:05 PM, System, Please, dictate the telephone number and press call
+08:08:05 PM, System, Please, dictate the telephone number and press call
+08:08:05 PM, System, Please, dictate the telephone number and press call
+08:08:05 PM, System, Please, dictate the telephone number and press call
+08:08:05 PM, System, Please, dictate the telephone number and press call
+08:08:05 PM, System, Please, dictate the telephone number and press call
+08:08:06 PM, System, Please, dictate the telephone number and press call
+08:08:06 PM, System, Please, dictate the telephone number and press call
+08:08:06 PM, System, Please, dictate the telephone number and press call
+08:08:06 PM, System, Please, dictate the telephone number and press call
+08:08:06 PM, System, Please, dictate the telephone number and press call
+08:08:06 PM, System, Please, dictate the telephone number and press call
+08:08:06 PM, System, Please, dictate the telephone number and press call
+08:08:06 PM, System, Please, dictate the telephone number and press call
+08:08:06 PM, System, Please, dictate the telephone number and press call
+08:08:06 PM, System, Please, dictate the telephone number and press call
+08:08:07 PM, System, Please, dictate the telephone number and press call
+08:08:07 PM, System, Please, dictate the telephone number and press call
+08:08:07 PM, System, Please, dictate the telephone number and press call
+08:08:07 PM, System, Please, dictate the telephone number and press call
+08:08:07 PM, System, Please, dictate the telephone number and press call
+08:08:07 PM, System, Please, dictate the telephone number and press call
+08:08:07 PM, System, Please, dictate the telephone number and press call
+08:08:07 PM, System, Please, dictate the telephone number and press call
+08:08:07 PM, System, Please, dictate the telephone number and press call
+08:08:08 PM, System, Please, dictate the telephone number and press call
+08:08:08 PM, System, Please, dictate the telephone number and press call
+08:08:08 PM, System, Please, dictate the telephone number and press call
+08:08:08 PM, System, Please, dictate the telephone number and press call
+08:08:08 PM, System, Please, dictate the telephone number and press call
+08:08:08 PM, System, Please, dictate the telephone number and press call
+08:08:08 PM, System, Please, dictate the telephone number and press call
+08:08:08 PM, System, Please, dictate the telephone number and press call
+08:08:08 PM, System, Please, dictate the telephone number and press call
+08:08:09 PM, System, Please, dictate the telephone number and press call
+08:08:09 PM, System, Please, dictate the telephone number and press call
+08:08:09 PM, System, Please, dictate the telephone number and press call
+08:08:09 PM, System, Please, dictate the telephone number and press call
+08:08:09 PM, System, Please, dictate the telephone number and press call
+08:08:09 PM, System, Please, dictate the telephone number and press call
+08:08:09 PM, System, Please, dictate the telephone number and press call
+08:08:09 PM, System, Please, dictate the telephone number and press call
+08:08:09 PM, System, Please, dictate the telephone number and press call
+08:08:10 PM, System, Please, dictate the telephone number and press call
+08:08:10 PM, System, Please, dictate the telephone number and press call
+08:08:10 PM, System, Please, dictate the telephone number and press call
+08:08:10 PM, System, Please, dictate the telephone number and press call
+08:08:10 PM, System, Please, dictate the telephone number and press call
+08:08:10 PM, System, Please, dictate the telephone number and press call
+08:08:10 PM, System, Please, dictate the telephone number and press call
+08:08:10 PM, System, Please, dictate the telephone number and press call
+08:08:10 PM, System, Please, dictate the telephone number and press call
+08:08:11 PM, System, Please, dictate the telephone number and press call
+08:08:11 PM, System, Please, dictate the telephone number and press call
+08:08:11 PM, System, Please, dictate the telephone number and press call
+08:08:11 PM, System, Please, dictate the telephone number and press call
+08:08:11 PM, System, Please, dictate the telephone number and press call
+08:08:11 PM, System, Please, dictate the telephone number and press call
+08:08:11 PM, System, Please, dictate the telephone number and press call
+08:08:11 PM, System, Please, dictate the telephone number and press call
+08:08:11 PM, System, Please, dictate the telephone number and press call
+08:08:12 PM, System, Please, dictate the telephone number and press call
+08:08:12 PM, System, Please, dictate the telephone number and press call
+08:08:12 PM, System, Please, dictate the telephone number and press call
+08:08:12 PM, System, Please, dictate the telephone number and press call
+08:08:12 PM, System, Please, dictate the telephone number and press call
+08:08:12 PM, System, Please, dictate the telephone number and press call
+08:08:12 PM, System, Please, dictate the telephone number and press call
+08:08:12 PM, System, Please, dictate the telephone number and press call
+08:08:12 PM, System, Please, dictate the telephone number and press call
+08:08:12 PM, System, Please, dictate the telephone number and press call
+08:08:13 PM, System, Please, dictate the telephone number and press call
+08:08:13 PM, System, Please, dictate the telephone number and press call
+08:08:13 PM, System, Please, dictate the telephone number and press call
+08:08:13 PM, System, Please, dictate the telephone number and press call
+08:08:13 PM, System, Please, dictate the telephone number and press call
+08:08:13 PM, System, Please, dictate the telephone number and press call
+08:08:13 PM, System, Please, dictate the telephone number and press call
+08:08:13 PM, System, Please, dictate the telephone number and press call
+08:08:13 PM, System, Please, dictate the telephone number and press call
+08:08:14 PM, System, Please, dictate the telephone number and press call
+08:08:14 PM, System, Please, dictate the telephone number and press call
+08:08:14 PM, System, Please, dictate the telephone number and press call
+08:08:14 PM, System, Please, dictate the telephone number and press call
+08:08:14 PM, System, Please, dictate the telephone number and press call
+08:08:14 PM, System, Please, dictate the telephone number and press call
+08:08:14 PM, System, Please, dictate the telephone number and press call
+08:08:14 PM, System, Please, dictate the telephone number and press call
+08:08:14 PM, System, Please, dictate the telephone number and press call
+08:08:15 PM, System, Please, dictate the telephone number and press call
+08:08:15 PM, System, Please, dictate the telephone number and press call
+08:08:15 PM, System, Please, dictate the telephone number and press call
+08:08:15 PM, System, Please, dictate the telephone number and press call
+08:08:15 PM, System, Please, dictate the telephone number and press call
+08:08:15 PM, System, Please, dictate the telephone number and press call
+08:08:15 PM, System, Please, dictate the telephone number and press call
+08:08:15 PM, System, Please, dictate the telephone number and press call
+08:08:15 PM, System, Please, dictate the telephone number and press call
+08:08:16 PM, System, Please, dictate the telephone number and press call
+08:08:16 PM, System, Please, dictate the telephone number and press call
+08:08:16 PM, System, Please, dictate the telephone number and press call
+08:08:16 PM, System, Please, dictate the telephone number and press call
+08:08:16 PM, System, Please, dictate the telephone number and press call
+08:08:16 PM, System, Please, dictate the telephone number and press call
+08:08:16 PM, System, Please, dictate the telephone number and press call
+08:08:16 PM, System, Please, dictate the telephone number and press call
+08:08:16 PM, System, Please, dictate the telephone number and press call
+08:08:17 PM, System, Please, dictate the telephone number and press call
+08:08:17 PM, System, Please, dictate the telephone number and press call
+08:08:17 PM, System, Please, dictate the telephone number and press call
+08:08:17 PM, System, Please, dictate the telephone number and press call
+08:08:17 PM, System, Please, dictate the telephone number and press call
+08:08:17 PM, System, Please, dictate the telephone number and press call
+08:08:17 PM, System, Please, dictate the telephone number and press call
+08:08:17 PM, System, Please, dictate the telephone number and press call
+08:08:17 PM, System, Please, dictate the telephone number and press call
+08:08:18 PM, System, Please, dictate the telephone number and press call
+08:08:18 PM, System, Please, dictate the telephone number and press call
+08:08:18 PM, System, Please, dictate the telephone number and press call
+08:08:18 PM, System, Please, dictate the telephone number and press call
+08:08:18 PM, System, Please, dictate the telephone number and press call
+08:08:18 PM, System, Please, dictate the telephone number and press call
+08:08:18 PM, System, Please, dictate the telephone number and press call
+08:08:18 PM, System, Please, dictate the telephone number and press call
+08:08:18 PM, System, Please, dictate the telephone number and press call
+08:08:19 PM, System, Please, dictate the telephone number and press call
+08:08:19 PM, System, Please, dictate the telephone number and press call
+08:08:19 PM, System, Please, dictate the telephone number and press call
+08:08:19 PM, System, Please, dictate the telephone number and press call
+08:08:19 PM, System, Please, dictate the telephone number and press call
+08:08:19 PM, System, Please, dictate the telephone number and press call
+08:08:19 PM, System, Please, dictate the telephone number and press call
+08:08:19 PM, System, Please, dictate the telephone number and press call
+08:08:19 PM, System, Please, dictate the telephone number and press call
+08:08:19 PM, System, Please, dictate the telephone number and press call
+08:08:20 PM, System, Please, dictate the telephone number and press call
+08:08:20 PM, System, Please, dictate the telephone number and press call
+08:08:20 PM, System, Please, dictate the telephone number and press call
+08:08:20 PM, System, Please, dictate the telephone number and press call
+08:08:20 PM, System, Please, dictate the telephone number and press call
+08:08:20 PM, System, Please, dictate the telephone number and press call
+08:08:20 PM, System, Please, dictate the telephone number and press call
+08:08:20 PM, System, Please, dictate the telephone number and press call
+08:08:20 PM, System, Please, dictate the telephone number and press call
+08:08:21 PM, System, Please, dictate the telephone number and press call
+08:08:21 PM, System, Please, dictate the telephone number and press call
+08:08:21 PM, System, Please, dictate the telephone number and press call
+08:08:21 PM, System, Please, dictate the telephone number and press call
+08:08:21 PM, System, Please, dictate the telephone number and press call
+08:08:21 PM, System, Please, dictate the telephone number and press call
+08:08:21 PM, System, Please, dictate the telephone number and press call
+08:08:21 PM, System, Please, dictate the telephone number and press call
+08:08:21 PM, System, Please, dictate the telephone number and press call
+08:08:22 PM, System, Please, dictate the telephone number and press call
+08:08:22 PM, System, Please, dictate the telephone number and press call
+08:08:22 PM, System, Please, dictate the telephone number and press call
+08:08:22 PM, System, Please, dictate the telephone number and press call
+08:08:22 PM, System, Please, dictate the telephone number and press call
+08:08:22 PM, System, Please, dictate the telephone number and press call
+08:08:22 PM, System, Please, dictate the telephone number and press call
+08:08:22 PM, System, Please, dictate the telephone number and press call
+08:08:22 PM, System, Please, dictate the telephone number and press call
+08:08:23 PM, System, Please, dictate the telephone number and press call
+08:08:23 PM, System, Please, dictate the telephone number and press call
+08:08:23 PM, System, Please, dictate the telephone number and press call
+08:08:23 PM, System, Please, dictate the telephone number and press call
+08:08:23 PM, System, Please, dictate the telephone number and press call
+08:08:23 PM, System, Please, dictate the telephone number and press call
+08:08:23 PM, System, Please, dictate the telephone number and press call
+08:08:23 PM, System, Please, dictate the telephone number and press call
+08:08:23 PM, System, Please, dictate the telephone number and press call
+08:08:24 PM, System, Please, dictate the telephone number and press call
+08:08:24 PM, System, Please, dictate the telephone number and press call
+08:08:24 PM, System, Please, dictate the telephone number and press call
+08:08:24 PM, System, Please, dictate the telephone number and press call
+08:08:24 PM, System, Please, dictate the telephone number and press call
+08:08:24 PM, System, Please, dictate the telephone number and press call
+08:08:24 PM, System, Please, dictate the telephone number and press call
+08:08:24 PM, System, Please, dictate the telephone number and press call
+08:08:24 PM, System, Please, dictate the telephone number and press call
+08:08:25 PM, System, Please, dictate the telephone number and press call
+08:08:25 PM, System, Please, dictate the telephone number and press call
+08:08:25 PM, System, Please, dictate the telephone number and press call
+08:08:25 PM, System, Please, dictate the telephone number and press call
+08:08:25 PM, System, Please, dictate the telephone number and press call
+08:08:25 PM, System, Please, dictate the telephone number and press call
+08:08:25 PM, System, Please, dictate the telephone number and press call
+08:08:25 PM, System, Please, dictate the telephone number and press call
+08:08:25 PM, System, Please, dictate the telephone number and press call
+08:08:25 PM, System, Please, dictate the telephone number and press call
+08:08:26 PM, System, Please, dictate the telephone number and press call
+08:08:26 PM, System, Please, dictate the telephone number and press call
+08:08:26 PM, System, Please, dictate the telephone number and press call
+08:08:26 PM, System, Please, dictate the telephone number and press call
+08:08:26 PM, System, Please, dictate the telephone number and press call
+08:08:26 PM, System, Please, dictate the telephone number and press call
+08:08:26 PM, System, Please, dictate the telephone number and press call
+08:08:26 PM, System, Please, dictate the telephone number and press call
+08:08:26 PM, System, Please, dictate the telephone number and press call
+08:08:27 PM, System, Please, dictate the telephone number and press call
+08:08:27 PM, System, Please, dictate the telephone number and press call
+08:08:27 PM, System, Please, dictate the telephone number and press call
+08:08:27 PM, System, Please, dictate the telephone number and press call
+08:08:27 PM, System, Please, dictate the telephone number and press call
+08:08:27 PM, System, Please, dictate the telephone number and press call
+08:08:27 PM, System, Please, dictate the telephone number and press call
+08:08:27 PM, System, Please, dictate the telephone number and press call
+08:08:27 PM, System, Please, dictate the telephone number and press call
+08:08:28 PM, System, Please, dictate the telephone number and press call
+08:08:28 PM, System, Please, dictate the telephone number and press call
+08:08:28 PM, System, Please, dictate the telephone number and press call
+08:08:28 PM, System, Please, dictate the telephone number and press call
+08:08:28 PM, System, Please, dictate the telephone number and press call
+08:08:28 PM, System, Please, dictate the telephone number and press call
+08:08:28 PM, System, Please, dictate the telephone number and press call
+08:08:28 PM, System, Please, dictate the telephone number and press call
+08:08:28 PM, System, Please, dictate the telephone number and press call
+08:08:29 PM, System, Please, dictate the telephone number and press call
+08:08:29 PM, System, Please, dictate the telephone number and press call
+08:08:29 PM, System, Please, dictate the telephone number and press call
+08:08:29 PM, System, Please, dictate the telephone number and press call
+08:08:29 PM, System, Please, dictate the telephone number and press call
+08:08:29 PM, System, Please, dictate the telephone number and press call
+08:08:29 PM, System, Please, dictate the telephone number and press call
+08:08:29 PM, System, Please, dictate the telephone number and press call
+08:08:29 PM, System, Please, dictate the telephone number and press call
+08:08:30 PM, System, Please, dictate the telephone number and press call
+08:08:30 PM, System, Please, dictate the telephone number and press call
+08:10:56 PM, Driver, <Button> Call
+08:10:56 PM, Driver, call
+08:11:03 PM, Driver, number
+08:11:03 PM, System, Please, dictate the telephone number and press call
+08:11:12 PM, Driver, zero
+08:11:14 PM, Driver, one
+08:11:18 PM, Driver, three
+08:11:20 PM, Driver, four
+08:11:21 PM, Driver, five
+08:11:22 PM, Driver, three
+08:11:24 PM, Driver, seven
+08:11:25 PM, Driver, eight
+08:11:29 PM, Driver, eight
+08:11:31 PM, Driver, eight
+08:11:33 PM, Driver, one
+08:11:37 PM, System, Sorry, your number  is  too short . Cancelling the command...
+08:18:34 PM, Driver, call number
+08:18:34 PM, System, Please, dictate the telephone number and press call
+08:20:00 PM, Driver, <Button> Call
+08:20:00 PM, Driver, call
+08:20:03 PM, Driver, number
+08:20:03 PM, System, Please, dictate the telephone number and press call
+08:23:21 PM, Driver, <Button> Call
+08:23:21 PM, Driver, call
+08:23:27 PM, Driver, number
+08:23:27 PM, System, Please, dictate the telephone number and press call
+08:24:29 PM, Driver, <Button> Call
+08:24:29 PM, Driver, call
+08:24:31 PM, Driver, number
+08:24:31 PM, System, Please, dictate the telephone number and press call
+08:24:39 PM, Driver, one
+08:24:43 PM, Driver, three
+08:24:45 PM, Driver, four
+08:24:49 PM, Driver, five
+08:24:57 PM, Driver, six
+08:25:00 PM, Driver, seven
+08:25:02 PM, Driver, eight
+08:25:03 PM, Driver, nine
+08:25:06 PM, Driver, double one
+08:25:11 PM, Driver, double three
+08:25:14 PM, System, Sorry, your number  is  too short . Cancelling the command...
+08:28:02 PM, Driver, <Button> Call
+08:28:02 PM, Driver, call
+08:28:06 PM, Driver, number
+08:28:07 PM, System, Please, dictate the telephone number and press call
+08:28:14 PM, Driver, zero
+08:28:17 PM, Driver, one
+08:28:21 PM, Driver, twenty
+08:28:30 PM, Driver, eight
+08:28:34 PM, Driver, double four
+08:38:28 PM, System, Sorry, your number  is  too short . Cancelling the command...
+08:38:49 PM, Driver, <Button> Call
+08:38:49 PM, Driver, call
+08:38:52 PM, Driver, number
+08:38:52 PM, System, Please, dictate the telephone number and press call
+08:39:00 PM, Driver, three
+08:39:02 PM, Driver, four
+08:39:04 PM, Driver, four
+08:39:23 PM, System, Sorry, your number  is  too short . Cancelling the command...
+08:39:56 PM, Driver, one
+08:40:43 PM, Driver, four
+08:41:08 PM, Driver, double five
+08:41:26 PM, Driver, six
+08:41:42 PM, Driver, ninety nine
+08:41:57 PM, Driver, three
+08:42:03 PM, Driver, one
+08:42:24 PM, Driver, <Button> Call
+08:48:06 PM, Driver, call number
+08:48:09 PM, System, Please, dictate the telephone number and press call
+08:48:11 PM, Driver, one
+08:48:17 PM, System, Sorry, your number 1  is  too short . Cancelling the command...
+08:48:29 PM, Driver, one
+08:48:33 PM, Driver, one
+08:48:36 PM, Driver, twenty
+08:48:40 PM, Driver, one
+08:49:06 PM, Driver, <Button> Call
+08:49:29 PM, Driver, <Button> Call
+08:49:29 PM, System, Do you want to call 111201. Say 'Yes' or 'No'
+09:58:00 PM, Driver, <Button> Call
+09:58:00 PM, Driver, call
+09:58:13 PM, Driver, patrick
+09:58:17 PM, Driver, patrick
+09:58:20 PM, Driver, contact
+09:58:23 PM, Driver, cancel
+09:58:23 PM, System, Cancelling...
+09:58:28 PM, Driver, call patrick
+09:58:32 PM, Driver, call patrick
+09:58:39 PM, Driver, what time is it?
+09:59:58 PM, Driver, call patrick
+10:00:04 PM, Driver, patrick
+10:00:07 PM, Driver, janet
+11:28:33 PM, Driver, call patrick
+11:28:42 PM, Driver, patrick
+11:29:55 PM, Driver, call patrick
+11:32:16 PM, Driver, call patrick
+11:32:33 PM, System, Do you want to call patrick. Say 'Yes' or 'No'
+11:32:56 PM, Driver, yup
+11:32:56 PM, System, Calling patrick on 0768354159
+09:44:19 PM, Driver, call patrick
+09:44:19 PM, System, Do you want to call patrick. Say 'Yes' or 'No'
+09:44:25 PM, Driver, yes
+09:44:25 PM, System, Calling patrick on 0768354159
+09:44:34 PM, System, Calling patrick on 0768354159
+09:44:34 PM, Driver, repeat
+09:44:42 PM, Driver, what time is it?
+09:44:42 PM, System, the time is 9  44
+10:28:20 AM, Driver, <Button> Call
+10:28:56 AM, System, Sorry, your number  is  too short . Cancelling the command...
+10:46:43 AM, Driver, <Button> Call
+10:47:37 AM, System, Sorry, your number  is  too short . Cancelling the command...
+10:47:44 AM, Driver, <Button> Read message
+10:48:59 AM, System, Do you want to read the last text message? Say 'Yes' or 'No'
+11:42:21 AM, Driver, <Button> Call
+11:42:24 AM, Driver, <Button> Call
+11:42:24 AM, System, call me b4 u get there.
+11:42:27 AM, Driver, <Button> Call
+02:44:28 PM, Driver, <Button> Call
+02:44:40 PM, Driver, patrick
+02:44:40 PM, System, Do you want to call patrick. Say 'Yes' or 'No'
+02:44:47 PM, Driver, yes
+02:44:48 PM, System, Calling patrick on 0768354159
+02:45:12 PM, Driver, what time is it?
+02:45:12 PM, System, the time is 2  45
+03:02:01 PM, Driver, call patrick
+03:02:01 PM, System, Do you want to call patrick. Say 'Yes' or 'No'
+03:02:08 PM, Driver, yes
+03:02:08 PM, System, Calling patrick on 0768354159
+03:02:25 PM, Driver, christiaan exit
+03:02:25 PM, System, Cancelling...
+03:02:29 PM, Driver, call felix
+03:02:29 PM, System, Do you want to call felix. Say 'Yes' or 'No'
+03:02:37 PM, Driver, yes
+03:02:37 PM, System, Calling felix on 0789954545
+03:02:50 PM, Driver, what time is it?
+03:02:50 PM, System, the time is 3  2
+03:02:58 PM, Driver, call thandi
+03:03:03 PM, Driver, call jean repeat
+03:03:03 PM, System, Do you want to call jean. Say 'Yes' or 'No'
+03:03:10 PM, Driver, yes
+03:03:10 PM, System, Calling jean on 0835544183
+03:04:21 PM, Driver, call janet
+03:04:21 PM, System, Do you want to call janet. Say 'Yes' or 'No'
+03:04:27 PM, Driver, yes
+03:04:27 PM, System, Calling janet on 0827743624
+03:05:18 PM, Driver, janet
+03:05:18 PM, Driver, jean time
+03:05:19 PM, Driver, hot
+03:05:19 PM, Driver, time
+03:05:19 PM, System, the time is 3  5
+03:05:30 PM, Driver, call repeat
+03:05:34 PM, Driver, callback
+03:05:37 PM, Driver, call bradley
+03:05:37 PM, System, Do you want to call bradley. Say 'Yes' or 'No'
+03:05:42 PM, Driver, no
+03:05:42 PM, System, Cancelling the call request.
+03:05:47 PM, Driver, callback
+03:05:47 PM, System, Do you want to call back the last incoming contact John Doe ? Say 'Yes' or 'No' 
+03:05:55 PM, Driver, no
+03:05:55 PM, System, Cancelling the callback request.
+03:06:00 PM, Driver, call patrick
+03:06:00 PM, System, Do you want to call patrick. Say 'Yes' or 'No'
+03:06:07 PM, Driver, yes
+03:06:07 PM, System, Calling patrick on 0768354159
+11:16:16 PM, Driver, <Button> Call
+11:16:17 PM, Driver, call
+11:16:19 PM, Driver, call
+11:18:57 PM, Driver, <Button> Call
+11:18:57 PM, Driver, call
+11:19:05 PM, Driver, call number
+11:19:05 PM, System, Please, dictate the telephone number and press call
+11:19:12 PM, Driver, one
+11:19:12 PM, System, Sorry, your number 1  is  too short . Cancelling the command...
+11:19:28 PM, Driver, zero
+11:19:29 PM, Driver, seven
+11:19:31 PM, Driver, six
+11:19:32 PM, Driver, eight
+11:19:35 PM, Driver, three
+11:19:37 PM, Driver, five
+11:19:38 PM, Driver, four
+11:19:40 PM, Driver, one
+11:19:41 PM, Driver, five
+11:19:43 PM, Driver, nine
+11:19:45 PM, Driver, oh
+11:19:50 PM, Driver, <Button> Call
+08:03:29 PM, System, Welcome to the usability evaluation
+08:04:01 PM, System, Welcome to the usability evaluation
+08:21:55 PM, System, Welcome to the usability evaluation
+08:22:32 PM, Driver, <Button> Call
+08:23:52 PM, System, Welcome to the usability evaluation
+09:45:48 PM, System, Welcome to the usability evaluation
+09:46:14 PM, Driver, call patrick
+09:46:21 PM, Driver, exit
+09:46:21 PM, System, Cancelling...
+09:46:28 PM, Driver, bradley
+09:46:28 PM, Driver, text
+09:46:36 PM, Driver, call patrick
+09:46:40 PM, Driver, cancel
+09:46:40 PM, System, Cancelling...
+09:46:42 PM, Driver, evan
+09:46:46 PM, Driver, call patrick
+09:46:50 PM, Driver, call
+09:46:56 PM, Driver, contact
+09:47:00 PM, Driver, contact repeat
+09:47:28 PM, System, Welcome to the usability evaluation
+10:00:18 PM, System, Welcome to the usability evaluation
+10:06:26 PM, System, Welcome to the usability evaluation
+10:06:42 PM, System, Welcome to the usability evaluation
+10:06:52 PM, System, Welcome to the usability evaluation
+10:07:19 PM, System, Welcome to the usability evaluation
+10:10:50 PM, System, Welcome to the usability evaluation
+10:11:27 PM, System, Welcome to the usability evaluation
+10:27:26 PM, System, Welcome to the usability evaluation
+10:29:59 PM, System, Welcome to the usability evaluation
+10:34:45 PM, System, Welcome to the usability evaluation
+10:35:40 PM, System, Welcome to the usability evaluation
+10:37:58 PM, System, Welcome to the usability evaluation
+10:40:13 PM, System, Welcome to the usability evaluation
+11:19:45 PM, System, Welcome to the usability evaluation
+11:20:54 PM, Driver, <Button> Call
+11:26:49 PM, System, Welcome to the usability evaluation
+11:27:09 PM, Driver, what time is it?
+11:29:58 PM, Driver, what time is it?
+11:29:59 PM, Driver, time
+11:30:02 PM, Driver, send a message to
+11:30:07 PM, Driver, what time is it?
+11:30:11 PM, Driver, john doe time repeat
+11:30:13 PM, Driver, re dial
+11:30:15 PM, Driver, john doe
+11:30:18 PM, Driver, dial john doe
+11:30:24 PM, Driver, john doe
+11:30:28 PM, Driver, john doe
+11:30:30 PM, Driver, john doe repeat
+11:39:35 PM, System, Welcome to the usability evaluation
+11:41:25 PM, System, Welcome to the usability evaluation
+11:41:31 PM, Driver, what time is it?
+11:41:38 PM, Driver, call patrick
+11:41:41 PM, Driver, cancel
+11:41:41 PM, System, Cancelling...
+01:29:54 AM, System, Welcome to the usability evaluation
+01:30:04 AM, Driver, what time is it?
+01:31:49 AM, Driver, cancel
+01:31:49 AM, System, Cancelling...
+01:32:20 AM, System, Welcome to the usability evaluation
+01:32:27 AM, Driver, what time is it?
+01:35:06 AM, Driver, time
+01:37:10 AM, System, Welcome to the usability evaluation
+01:37:16 AM, Driver, text what time is it?
+01:37:28 AM, Driver, what time is it?
+01:37:30 AM, Driver, cancel
+01:37:30 AM, System, Cancelling...
+01:38:05 AM, System, Welcome to the usability evaluation
+01:38:08 AM, Driver, hyacinthe
+01:38:12 AM, Driver, what time is it?
+01:59:31 AM, System, Welcome to the usability evaluation
+01:59:35 AM, Driver, what time is it?
+02:02:46 AM, System, the time is 2  2
+02:03:31 AM, System, Welcome to the usability evaluation
+02:03:59 AM, Driver, what time is it?
+02:04:08 AM, System, the time is 2  4
+02:05:10 AM, Driver, <Button> Call
+02:05:19 AM, Driver, dial
+02:07:38 AM, Driver, time
+02:07:51 AM, Driver, edith
+02:08:01 AM, Driver, cancel
+02:08:01 AM, System, Cancelling...
+02:08:15 AM, System, Welcome to the usability evaluation
+02:08:21 AM, Driver, what time is it?
+02:08:38 AM, System, the time is 2  8
+02:10:15 AM, Driver, what time is it? repeat
+02:11:47 AM, System, Welcome to the usability evaluation
+02:12:58 AM, System, Welcome to the usability evaluation
+02:13:05 AM, Driver, what time is it?
+02:13:08 AM, System, the time is 2  13
+02:13:10 AM, Driver, time exit
+02:13:10 AM, System, Cancelling...
+02:13:11 AM, Driver, time
+02:13:25 AM, System, the time is 2  13
+02:15:16 AM, System, Welcome to the usability evaluation
+02:15:28 AM, Driver, what time is it?
+02:15:28 AM, System, the time is 2  15
+02:15:37 AM, Driver, call patrick
+02:15:37 AM, System, Do you want to call patrick. Say 'Yes' or 'No'
+02:19:26 AM, System, Welcome to the usability evaluation
+02:19:32 AM, Driver, call patrick
+02:19:32 AM, System, Do you want to call patrick. Say 'Yes' or 'No'
+02:21:30 AM, System, Welcome to the usability evaluation
+02:21:36 AM, Driver, call patrick
+02:21:37 AM, System, Do you want to call patrick. Say 'Yes' or 'No'
+02:24:31 AM, System, Welcome to the usability evaluation
+02:24:38 AM, Driver, call patrick
+02:24:38 AM, System, Do you want to call patrick. Say 'Yes' or 'No'
+02:41:34 AM, System, Welcome to the usability evaluation
+02:41:41 AM, Driver, call patrick
+02:41:41 AM, System, Do you want to call patrick. Say 'Yes' or 'No'
+02:41:47 AM, Driver, ya no
+02:41:47 AM, System, Cancelling the call request.
+02:41:49 AM, Driver, <Button> Call
+02:41:49 AM, Driver, dial
+02:41:52 AM, Driver, send message to
+02:41:56 AM, Driver, charmain
+02:41:56 AM, System, Do you want to call charmain. Say 'Yes' or 'No'
+02:41:59 AM, Driver, sure nay
+02:41:59 AM, System, Cancelling the call request.
+02:42:06 AM, Driver, call patrick
+02:42:06 AM, System, Do you want to call patrick. Say 'Yes' or 'No'
+02:42:13 AM, Driver, yes
+02:42:13 AM, System, Calling patrick on 0768354159
+02:42:23 AM, Driver, sms andre
+02:42:23 AM, System, Do you want to  send a text message to andre. Say 'Yes' or 'No'
+02:42:30 AM, Driver, yeah reset
+02:42:30 AM, System, Cancelling...
+02:42:38 AM, Driver, sms andre
+02:42:38 AM, System, Do you want to  send a text message to andre. Say 'Yes' or 'No'
+02:42:46 AM, Driver, yes
+02:42:46 AM, System, Choose between the following options
+02:42:46 AM, System, 1- I am running late
+02:42:46 AM, System, 2- Appointment postponed
+02:42:46 AM, System, 3- I will call you later
+02:43:05 AM, Driver, three
+02:43:05 AM, System, Sending the text message 3- I will call you later
+02:44:33 AM, System, Welcome to the usability evaluation
+02:44:46 AM, Driver, call patrick
+02:44:46 AM, System, Do you want to call patrick. Say 'Yes' or 'No'
+02:45:02 AM, Driver, cancel
+02:45:02 AM, System, Cancelling...
+02:45:09 AM, Driver, call patrick
+02:45:09 AM, System, Do you want to call patrick. Say 'Yes' or 'No'
+02:45:17 AM, Driver, yeah reset
+02:45:17 AM, System, Cancelling...
+02:45:24 AM, Driver, call patrick
+02:45:24 AM, System, Do you want to call patrick. Say 'Yes' or 'No'
+02:45:30 AM, Driver, ya
+02:45:30 AM, System, Calling patrick on 0768354159
+02:45:47 AM, Driver, sms janet
+02:45:47 AM, System, Do you want to  send a text message to janet. Say 'Yes' or 'No'
+02:45:55 AM, Driver, ya
+02:45:55 AM, System, Choose between the following options
+02:45:55 AM, System, 1- I am running late
+02:45:55 AM, System, 2- Appointment postponed
+02:45:55 AM, System, 3- I will call you later
+02:46:02 AM, Driver, one
+02:46:02 AM, System, Sending the text message 1- I am running late
+03:28:24 AM, System, Welcome to the usability evaluation
+08:40:22 AM, System, Welcome to the usability evaluation
+08:40:50 AM, System, Welcome to the usability evaluation
+09:12:10 AM, System, Welcome to the usability evaluation
+09:13:01 AM, System, Welcome to the usability evaluation
+09:13:37 AM, Driver, time
+09:13:37 AM, System, the time is 9  13
+09:13:44 AM, Driver, cancel
+09:13:44 AM, System, Cancelling...
+01:18:51 PM, System, Welcome to the usability evaluation
+09:53:59 AM, System, Welcome to the usability evaluation
+09:59:12 AM, Driver, time
+09:59:12 AM, System, the time is 9  59
+09:59:20 AM, Driver, what time is it?
+09:59:20 AM, System, the time is 9  59
+09:59:32 AM, Driver, call patrick
+09:59:32 AM, System, Do you want to call patrick. Say 'Yes' or 'No'
+09:59:39 AM, Driver, cancel
+09:59:39 AM, System, Cancelling...
+09:59:44 AM, Driver, call patrick
+09:59:44 AM, System, Do you want to call patrick. Say 'Yes' or 'No'
+09:59:53 AM, Driver, cancel
+09:59:53 AM, System, Cancelling...
+10:00:00 AM, Driver, call patrick
+10:00:00 AM, System, Do you want to call patrick. Say 'Yes' or 'No'
+10:00:06 AM, Driver, ya
+10:00:06 AM, System, Calling patrick on 0768354159
+10:02:54 AM, System, Welcome to the usability evaluation
+10:03:30 AM, Driver, call patrick cancel
+10:03:30 AM, System, Cancelling...
+10:03:34 AM, Driver, call patrick
+10:03:35 AM, System, Do you want to call patrick. Say 'Yes' or 'No'
+10:03:41 AM, Driver, yes
+10:03:41 AM, System, Calling patrick on 0768354159
+10:06:03 AM, System, Welcome to the usability evaluation
+02:55:28 PM, System, Welcome to the usability evaluation
+02:56:09 PM, System, Welcome to the usability evaluation
+02:56:21 PM, Driver, call patrick
+02:56:21 PM, System, Do you want to call patrick. Say 'Yes' or 'No'
+02:56:27 PM, Driver, agreed
+02:56:27 PM, System, Calling patrick on 0768354159
+02:56:49 PM, System, Welcome to the usability evaluation
+02:57:33 PM, System, Welcome to the usability evaluation
+02:57:57 PM, Driver, call patrick
+02:57:57 PM, System, Do you want to call patrick. Say 'Yes' or 'No'
+02:58:02 PM, Driver, yeah reset
+02:58:02 PM, System, Cancelling...
+02:58:05 PM, Driver, edith
+02:58:08 PM, Driver, edith time
+02:58:08 PM, System, the time is 2  58
+02:58:13 PM, Driver, call patrick
+02:58:13 PM, System, Do you want to call patrick. Say 'Yes' or 'No'
+02:58:18 PM, Driver, yes
+02:58:18 PM, System, Calling patrick on 0768354159
+02:59:10 PM, Driver, call patrick
+02:59:10 PM, System, Do you want to call patrick. Say 'Yes' or 'No'
+02:59:13 PM, Driver, ya
+02:59:13 PM, System, Calling patrick on 0768354159
+03:03:51 PM, Driver, call patrick
+03:03:51 PM, System, Do you want to call patrick. Say 'Yes' or 'No'
+03:03:55 PM, Driver, agreed
+03:03:55 PM, System, Calling patrick on 0768354159
+03:03:58 PM, Driver, <Button> Call
+03:03:58 PM, Driver, call
+03:04:02 PM, Driver, call
+03:04:03 PM, Driver, sanele
+03:04:03 PM, System, Do you want to call sanele. Say 'Yes' or 'No'
+03:04:05 PM, Driver, restart
+03:04:05 PM, System, Cancelling...
+03:04:06 PM, Driver, time
+03:04:06 PM, System, the time is 3  4
+03:04:11 PM, Driver, call patrick
+03:04:11 PM, System, Do you want to call patrick. Say 'Yes' or 'No'
+03:04:15 PM, Driver, correct reset
+03:04:15 PM, System, Cancelling...
+03:04:21 PM, Driver, what time is it?
+03:04:22 PM, System, the time is 3  4
+03:04:23 PM, Driver, time
+03:04:23 PM, System, the time is 3  4
+03:04:25 PM, Driver, time
+03:04:25 PM, System, the time is 3  4
+03:04:43 PM, Driver, reject cancel
+03:04:43 PM, System, Cancelling...
+03:04:52 PM, Driver, what time is it?
+03:04:52 PM, System, the time is 3  4
+03:14:21 PM, System, Welcome to the usability evaluation
+03:14:27 PM, Driver, call patrick
+03:14:28 PM, System, Do you want to call patrick. Say 'Yes' or 'No'
+03:14:33 PM, Driver, yeah reset
+03:14:33 PM, System, Cancelling...
+05:21:12 PM, System, Welcome to the usability evaluation
+12:40:47 PM, System, Welcome to the usability evaluation

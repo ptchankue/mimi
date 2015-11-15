@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="prjMIMI_2">
+</Property><Property Name="Solution File" Value="C:\Data\Masters\prjMIMI_2\prjMIMI_2.sln">
+</Property><Property Name="User Options File" Value="C:\Data\Masters\prjMIMI_2\prjMIMI_2.suo">
+</Property><Property Name="Date" Value="11 March 2011">
+</Property><Property Name="Time" Value="20:40 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="prjMIMI_2.sln" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2.sln">
+</Event><Event ErrorLevel="0" Project="" Source="prjMIMI_2.suo" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2.suo">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\prjMIMI_2.csproj" Description="Project file successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\prjMIMI_2.csproj">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\clsAdaptive.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\clsAdaptive.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\clsCAN.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\clsCAN.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\clsFrame.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\clsFrame.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\clsInput.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\clsInput.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\clsLCT.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\clsLCT.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\clsPhone.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\clsPhone.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\clsSlot.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\clsSlot.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\clsSound.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\clsSound.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\frmCar.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\frmCar.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\frmCar.Designer.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\frmCar.Designer.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\frmBluetooth.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\frmBluetooth.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\frmBluetooth.Designer.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\frmBluetooth.Designer.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\frmCANbus.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\frmCANbus.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\frmCANbus.Designer.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\frmCANbus.Designer.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\frmEvaluation.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\frmEvaluation.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\frmEvaluation.Designer.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\frmEvaluation.Designer.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\frmNetwork.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\frmNetwork.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\frmNetwork.Designer.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\frmNetwork.Designer.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\frmNN.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\frmNN.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\frmNN.Designer.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\frmNN.Designer.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\frmSplash.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\frmSplash.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\frmSplash.Designer.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\frmSplash.Designer.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\frmTest.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\frmTest.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\frmTest.Designer.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\frmTest.Designer.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\Program.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\Program.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\Properties\Settings.settings" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\bin\Debug\steering.jpg" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\bin\Debug\steering.jpg">
+</Event><Event ErrorLevel="2" Project="prjMIMI_2" Source="prjMIMI_2\Sms_templates.xml" Description="Failed to backup file as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\Sms_templates.xml">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\frmCar.resx" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\frmCar.resx">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\frmBluetooth.resx" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\frmBluetooth.resx">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\frmCANbus.resx" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\frmCANbus.resx">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\frmEvaluation.resx" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\frmEvaluation.resx">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\frmNetwork.resx" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\frmNetwork.resx">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\frmNN.resx" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\frmNN.resx">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\frmSplash.resx" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\frmSplash.resx">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\frmTest.resx" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\frmTest.resx">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\Properties\Resources.resx" Description="File successfully backed up as C:\Data\Masters\prjMIMI_2\Backup\prjMIMI_2\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\prjMIMI_2.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="prjMIMI_2" Source="prjMIMI_2\prjMIMI_2.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="prjMIMI_2.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="prjMIMI_2.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="prjMIMI_2" Source="prjMIMI_2\prjMIMI_2.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

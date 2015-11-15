@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<grammar version="1.0" xml:lang="en-GB" mode="voice" root="main" xmlns="http://www.w3.org/2001/06/grammar"
+tag-format="semantics/1.0">
+
+<rule id="main" scope="public">
+  <item repeat="0-1">
+    <ruleref uri="#call" type="application/srgs+xml"/>
+  </item>
+
+  <item repeat="0-1">
+    <ruleref uri="#name" type="application/srgs+xml"/>
+  </item>
+
+  <item repeat="0-1">
+    <ruleref uri="#time" type="application/srgs+xml"/>
+  </item>
+
+  <item repeat="0-1">
+    <ruleref uri="#cancel" type="application/srgs+xml"/>
+  </item>
+
+  <item repeat="0-1">
+    <ruleref uri="#track" type="application/srgs+xml"/>
+  </item>
+  
+  <item repeat="0-1">
+    repeat
+  </item>
+</rule>
+  
+  <rule id="call" scope="private">
+    <item>
+      <ruleref uri="#cmd" type="application/srgs+xml"/>
+      <tag>out.cmd= rules.cmd;</tag>
+    </item>
+  
+    <item repeat="0-1">
+      <ruleref uri="#name" type="application/srgs+xml"/>
+      <tag>out.name= rules.name;</tag>
+    </item>
+  </rule>
+
+  <rule id="cmd" scope="public">
+    <one-of>
+      <item>
+        call<tag>out.cmd= "call";</tag>
+      </item>
+      <item>
+        phone<tag>out.cmd= "call";</tag>
+      </item>
+      <item>
+        dial<tag>out.cmd= "call";</tag>
+      </item>
+      <item>
+        sms<tag>out.cmd= "sms";</tag>
+      </item>
+      <item>
+        send a message to<tag>out.cmd= "sms";</tag>
+      </item>
+      <item>
+        send message to<tag>out.cmd= "sms";</tag>
+      </item>
+      <item>
+        text<tag>out.cmd= "sms";</tag>
+      </item>
+      <item>
+        re dial<tag>out.cmd= "redial";</tag>
+      </item>
+      <item>
+        callback<tag>out.cmd= "callback";</tag>
+      </item>
+    </one-of>
+  </rule>
+  <rule id="name" scope="public">
+	  <one-of>
+		  <item>patrick</item>
+		  <item>janet</item>
+		  <item>dieter</item>
+		  <item>hyacinthe</item>
+		  <item>fabrice</item>
+		  <item>felix</item>
+      <item>christiaan</item>
+      <item>meredith</item>
+      <item>bradley</item>
+	    <item>sanele</item>
+	    <item>jean</item>
+	    <item>andre</item>
+	    <item>charmain</item>
+	    <item>lynette</item>
+	    <item>evan</item>
+	    <item>john doe</item>
+	    <item>edith</item>
+	    <item>simone</item>
+      <item>thandi</item>
+      <item>victor</item>
+      
+	    <item>contact</item>
+	    <item>number</item>
+	  </one-of>
+  </rule>
+
+  <rule id="time" scope="private">
+    <one-of>
+      <item>what time is it?</item>
+      <item>time</item>
+    </one-of>
+    <tag>out.time="time"</tag>
+  </rule>
+
+  <rule id="track" scope="private">
+    <one-of>
+      <item>butterflies</item>
+      <item>hot</item>
+    </one-of>
+  </rule>
+  
+  <rule id="cancel" scope="public">
+    <one-of>
+      <item>restart</item>
+      <item>reset</item>
+      <item>cancel</item>
+      <item>exit</item>
+    </one-of>
+    <tag>out.cancel="cancel"</tag>
+  </rule>
+</grammar>

@@ -1,0 +1,7 @@
+﻿Call
+Phone
+Dial
+Sms
+Text
+Send message to
+Send sms to

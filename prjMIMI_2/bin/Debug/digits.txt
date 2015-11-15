@@ -1,0 +1,52 @@
+﻿O
+zero
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+double O
+double zero
+double one
+double two
+double three
+double four
+double five
+double six
+double seven
+double eight
+double nine
+triple O
+triple zero
+triple one
+triple two
+triple three
+triple four
+triple five
+triple six
+triple seven
+triple eight
+triple nine
+eleven
+twelve
+thirteen
+fourteen
+fifteen
+sixteen
+seventeen
+eighteen
+nineteen
+twenty
+twenty-one
+thirty
+forty
+fifty
+sixty
+seventy
+eighty
+ninety
+hundred

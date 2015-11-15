@@ -1,0 +1,202 @@
+2010/05/20 12:20, P09, Task10
+2010/05/20 12:20, Driver, Call Janet
+2010/05/20 12:20, System, Do you want to call Janet. Say 'Yes' or 'No'
+2010/05/20 12:20, Driver, Yes
+2010/05/20 12:20, System, Calling Janet on 0827743624
+2010/05/20 12:26:25 PM, P10, Task11
+2010/05/20 12:26:35 PM, Driver, Sms Andre
+2010/05/20 12:26:35 PM, System, Do you want to  send a text message to Andre. Say 'Yes' or 'No'
+2010/05/20 12:26:44 PM, Driver, Yes
+2010/05/20 12:26:44 PM, System, Choose between the following options
+2010/05/20 12:26:48 PM, System, 1- I am running late
+2010/05/20 12:26:51 PM, System, 2- Appointment postponed
+2010/05/20 12:26:55 PM, System, 3- I will call you later
+2010/05/20 12:27:01 PM, Driver, Read
+2010/05/20 12:27:05 PM, Driver, Pairing
+2010/05/20 12:27:10 PM, Driver, reply to
+2010/05/20 12:27:16 PM, Driver, Chris
+2010/05/21 06:37:05 PM, P04, Task12
+2010/05/21 06:38:01 PM, Driver, Call Patrick
+2010/05/21 06:38:01 PM, System, Do you want to call Patrick. Say 'Yes' or 'No'
+2010/05/21 06:38:08 PM, Driver, What time is it?
+2010/05/21 06:38:15 PM, Driver, Yes
+2010/05/21 06:38:15 PM, System, Calling Patrick on 0768354159
+2010/05/21 06:38:24 PM, Driver, triple nine
+2010/05/21 06:38:26 PM, Driver, Say time
+2010/05/21 06:38:29 PM, System, the time is 6  38
+2010/05/23 12:48:31 PM, Driver, Call Patrick
+2010/05/23 12:48:31 PM, System, Do you want to call Patrick. Say 'Yes' or 'No'
+2010/05/23 12:48:41 PM, Driver, Yes
+2010/05/23 12:48:41 PM, System, Calling Patrick on 0768354159
+2010/05/23 01:49:05 PM, TEST, Task12
+2010/05/23 01:49:09 PM, Driver, <Button> Send Message
+2010/05/23 01:49:15 PM, Driver, Zero
+2010/05/23 01:49:17 PM, Driver, Seven
+2010/05/23 01:49:19 PM, Driver, Three
+2010/05/23 01:49:21 PM, Driver, triple one
+2010/05/23 01:49:23 PM, Driver, One
+2010/05/23 01:49:25 PM, Driver, Two
+2010/05/23 01:49:26 PM, Driver, Eight
+2010/05/23 01:49:28 PM, Driver, Four
+2010/05/23 01:49:30 PM, System, Do you want to send a text message to 0731111284. Say 'Yes' or 'No'
+2010/05/23 01:49:42 PM, Driver, Yes
+2010/05/23 01:49:43 PM, System, Choose between the following options
+2010/05/23 01:49:46 PM, System, 1- I am running late
+2010/05/23 01:49:50 PM, System, 2- Appointment postponed
+2010/05/23 01:49:54 PM, System, 3- I will call you later
+2010/05/23 01:49:57 PM, System, Sending the text message 3- I will call you later
+2010/05/23 01:53:50 PM, TEST, Task01
+2010/05/23 01:53:51 PM, Driver, <Button> Call
+2010/05/23 01:53:55 PM, System, Sorry, your number  is  too short . Try again or cancel the call
+2010/05/23 01:54:02 PM, Driver, <Button> Send Message
+2010/05/23 01:54:06 PM, Driver, Zero
+2010/05/23 01:54:07 PM, Driver, Seven
+2010/05/23 01:54:09 PM, Driver, Three
+2010/05/23 01:54:11 PM, Driver, triple one
+2010/05/23 01:54:12 PM, Driver, double two
+2010/05/23 01:54:14 PM, Driver, double four
+2010/05/23 01:54:53 PM, TEST, Task01
+2010/05/23 01:54:55 PM, Driver, <Button> Send Message
+2010/05/23 01:54:57 PM, Driver, Say time
+2010/05/23 01:54:59 PM, Driver, Seven
+2010/05/23 01:55:01 PM, Driver, Six
+2010/05/23 01:55:03 PM, Driver, triple one
+2010/05/23 01:55:05 PM, Driver, double two
+2010/05/23 01:55:07 PM, Driver, double four
+2010/05/23 01:56:01 PM, System, Sorry, your number 761112244 is  too short . Try again or cancel the call
+2010/05/23 01:56:26 PM, Driver, naught
+2010/05/23 01:56:29 PM, Driver, double seven
+2010/05/23 01:56:31 PM, Driver, double two
+2010/05/23 01:56:33 PM, Driver, One
+2010/05/23 01:56:35 PM, Driver, double four
+2010/05/23 01:56:37 PM, Driver, double three
+2010/05/23 01:56:40 PM, Driver, <Button> Call
+2010/05/23 01:56:43 PM, System, Sorry, your number  is  too short . Try again or cancel the call
+2010/05/23 01:56:53 PM, Driver, <Button> Send Message
+2010/05/23 01:56:57 PM, Driver, naught
+2010/05/23 01:56:59 PM, Driver, double seven
+2010/05/23 01:57:01 PM, Driver, triple four
+2010/05/23 01:57:03 PM, Driver, double five
+2010/05/23 01:57:05 PM, Driver, double six
+2010/05/23 01:57:12 PM, System, Do you want to send a text message to 0774445566. Say 'Yes' or 'No'
+2010/05/23 01:57:24 PM, Driver, Yes
+2010/05/23 01:57:24 PM, System, Choose between the following options
+2010/05/23 01:57:28 PM, System, 1- I am running late
+2010/05/23 01:57:32 PM, System, 2- Appointment postponed
+2010/05/23 01:57:36 PM, System, 3- I will call you later
+2010/05/23 01:57:44 PM, Driver, Two
+2010/05/23 01:57:44 PM, System, Sending the text message 2- Appointment postponed
+2010/05/23 01:57:59 PM, TEST, Task02
+2010/05/23 01:58:04 PM, Driver, Dial Felix
+2010/05/23 01:58:04 PM, Driver, Dial Felix
+2010/05/23 01:58:04 PM, System, Do you want to call Felix. Say 'Yes' or 'No'
+2010/05/23 01:58:09 PM, Driver, double one
+2010/05/23 01:58:09 PM, Driver, double one
+2010/05/23 01:58:13 PM, Driver, Yes
+2010/05/23 01:58:13 PM, Driver, Yes
+2010/05/23 01:58:13 PM, System, Calling Felix on 0789954545
+2010/05/23 01:58:20 PM, Driver, double nine
+2010/05/23 01:58:20 PM, Driver, Mobile phone
+2010/05/23 01:58:47 PM, Driver, Phone
+2010/05/23 01:59:00 PM, TEST, Task03
+2010/05/23 01:59:02 PM, Driver, <Button> Call
+2010/05/23 01:59:05 PM, Driver, Janet
+2010/05/23 01:59:05 PM, Driver, Janet
+2010/05/23 01:59:05 PM, System, Do you want to call Janet. Say 'Yes' or 'No'
+2010/05/23 01:59:09 PM, System, Do you want to call Janet. Say 'Yes' or 'No'
+2010/05/23 01:59:14 PM, Driver, Phone Dieter
+2010/05/23 01:59:15 PM, Driver, double one
+2010/05/23 02:01:05 PM, TEST, Task04
+2010/05/23 02:01:10 PM, Driver, Call Simone
+2010/05/23 02:01:10 PM, System, Do you want to call Simone. Say 'Yes' or 'No'
+2010/05/23 02:01:19 PM, Driver, naught
+2010/05/23 02:01:26 PM, Driver, Say time
+2010/05/23 02:01:28 PM, Driver, double seven
+2010/05/23 02:01:30 PM, Driver, triple four
+2010/05/23 02:01:32 PM, Driver, double five
+2010/05/23 02:01:34 PM, Driver, double five
+2010/05/23 02:01:58 PM, TEST, Task05
+2010/05/23 02:02:02 PM, Driver, Callback
+2010/05/23 02:02:02 PM, System, Do you want to call back the last incoming contact John Doe ? Say 'Yes' or 'No' 
+2010/05/23 02:02:12 PM, Driver, naught
+2010/05/23 02:02:17 PM, Driver, What time is it?
+2010/05/23 02:02:22 PM, Driver, Cancel
+2010/05/23 02:02:22 PM, System, Resetting...
+2010/05/23 02:02:29 PM, Driver, What time is it?
+2010/05/23 02:02:29 PM, System, the time is 2  2
+2010/05/23 02:02:34 PM, Driver, What time is it?
+2010/05/23 02:02:34 PM, System, the time is 2  2
+2010/05/23 02:02:38 PM, System, the time is 2  2
+2010/05/23 02:02:40 PM, Driver, Repeat
+2010/05/23 02:02:43 PM, System, the time is 2  2
+2010/05/23 02:02:45 PM, Driver, Repeat
+2010/05/23 02:03:01 PM, TEST, Task06
+2010/05/23 02:03:11 PM, Driver, Phone
+2010/05/23 02:03:15 PM, Driver, Five
+2010/05/23 02:03:16 PM, Driver, triple eight
+2010/05/23 02:03:20 PM, Driver, triple six
+2010/05/23 02:03:22 PM, Driver, double two
+2010/05/23 02:03:24 PM, Driver, double two
+2010/05/23 02:03:26 PM, System, Sorry, your number 58886662222 is  is not valid . Try again or cancel the call
+2010/05/23 02:10:37 PM, TEST, Task07
+2010/05/23 02:10:49 PM, Driver, Call Patrick
+2010/05/23 02:10:49 PM, System, Do you want to call Patrick. Say 'Yes' or 'No'
+2010/05/23 02:10:56 PM, Driver, Yes
+2010/05/23 02:10:56 PM, System, Calling Patrick on 0768354159
+2010/05/23 02:11:06 PM, Driver, Call Janet
+2010/05/23 02:11:06 PM, System, Do you want to call Janet. Say 'Yes' or 'No'
+2010/05/23 02:11:11 PM, System, Calling Janet on 0827743624
+2010/05/23 02:11:21 PM, Driver, Call Janet
+2010/05/23 02:11:21 PM, System, Do you want to call Janet. Say 'Yes' or 'No'
+2010/05/23 02:11:26 PM, System, Calling Janet on 0827743624
+2010/05/23 02:12:12 PM, TEST, Task08
+2010/05/23 02:12:16 PM, Driver, Call Janet
+2010/05/23 02:12:16 PM, System, Do you want to call Janet. Say 'Yes' or 'No'
+2010/05/23 02:12:23 PM, Driver, Yes
+2010/05/23 02:12:23 PM, System, Calling Janet on 0827743624
+2010/05/23 02:12:32 PM, Driver, Call Christiaan
+2010/05/23 02:12:32 PM, System, Do you want to call Christiaan. Say 'Yes' or 'No'
+2010/05/23 02:12:41 PM, Driver, Yeah
+2010/05/23 02:12:42 PM, System, Calling Christiaan on 0829415665
+2010/05/23 02:12:50 PM, Driver, Call Andre
+2010/05/23 02:12:50 PM, System, Do you want to call Andre. Say 'Yes' or 'No'
+2010/05/23 02:12:57 PM, Driver, naught
+2010/05/23 02:13:06 PM, Driver, Call Patrick
+2010/05/23 02:13:10 PM, Driver, Call Patrick
+2010/05/23 02:14:34 PM, TEST, Task09
+2010/05/23 02:14:38 PM, Driver, Call Christiaan
+2010/05/23 02:14:38 PM, System, Do you want to call Christiaan. Say 'Yes' or 'No'
+2010/05/23 02:14:44 PM, Driver, naught
+2010/05/23 02:14:52 PM, Driver, Call Patrick
+2010/05/23 02:14:58 PM, Driver, Call Patrick
+2010/05/23 02:15:20 PM, TEST, Task10
+2010/05/23 02:15:23 PM, Driver, Call Patrick
+2010/05/23 02:15:23 PM, System, Do you want to call Patrick. Say 'Yes' or 'No'
+2010/05/23 02:15:30 PM, Driver, naught
+2010/05/23 02:16:36 PM, Driver, naught
+2010/05/23 02:16:50 PM, Driver, naught
+2010/05/23 02:17:28 PM, TEST, Task10
+2010/05/23 02:17:31 PM, Driver, Call Patrick
+2010/05/23 02:17:37 PM, System, Do you want to call Patrick. Say 'Yes' or 'No'
+2010/05/23 02:17:43 PM, Driver, Four
+2010/05/23 02:17:46 PM, Driver, No
+2010/05/23 02:17:46 PM, System, Cancelling the call request.
+2010/05/23 02:17:53 PM, Driver, Call Christiaan
+2010/05/23 02:17:53 PM, System, Do you want to call Christiaan. Say 'Yes' or 'No'
+2010/05/23 02:18:00 PM, Driver, No
+2010/05/23 02:18:00 PM, System, Cancelling the call request.
+2010/05/23 03:07:39 PM, TEST, Task11
+2010/05/23 03:53:16 PM, TEST, Task12
+2010/05/23 03:53:19 PM, Driver, <Button> Call
+2010/05/23 03:53:21 PM, Driver, <Button> Read message
+2010/05/23 03:53:23 PM, Driver, <Button> Read message
+2010/05/23 03:53:24 PM, Driver, <Button> Pairing
+2010/05/23 03:53:26 PM, System, Sorry, your number  is  too short . Try again or cancel the call
+2010/05/23 03:53:33 PM, Driver, <Button> Reject or end a call
+2010/05/23 03:53:36 PM, Driver, <Button> Send Message
+2010/05/23 03:53:37 PM, System, Sorry, your number  is  too short . Try again or cancel the call
+2010/05/23 03:56:40 PM, TEST, Task01
+2010/05/23 03:56:48 PM, TEST, Task02
+2010/05/23 03:59:02 PM, TEST, Task03
+2010/05/23 04:06:52 PM, TEST, Task04
+2010/05/23 04:07:48 PM, TEST, Task05

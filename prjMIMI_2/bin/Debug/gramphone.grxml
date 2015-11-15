@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<grammar version="1.0" xmlns="http://www.w3.org/2001/06/grammar"
+         root="main" xml:lang="en-GB"
+         mode="voice" tag-format="semantics-ms/1.0">
+
+<rule id="main" scope="public">
+  
+  <tag>$.val={}; $.val._value=""; </tag>
+  
+  <item repeat="0-10">
+    <ruleref uri="#digit" type="application/srgs+xml"/>
+    <tag>$.val = $.val + $$._value;</tag>
+  </item>
+  
+  <item repeat="0-1">
+    double
+    <ruleref uri="#digit" type="application/srgs+xml"/>
+    <tag>$.val += $$._value + $$._value;</tag>
+  </item>
+
+  <item repeat="0-1">
+    triple
+    <ruleref uri="#digit" type="application/srgs+xml"/>
+    <tag>$.val += $$._value+ $$._value + $$._value;</tag>
+  </item>
+  
+</rule>
+
+  <rule id="digit">
+    <one-of>
+      <item>zero<tag>$._value= "0";</tag></item>
+      <item>oh<tag>$._value= "0";</tag></item>
+      <item>one<tag>$._value="1";</tag></item>
+      <item>won<tag>$._value="1";</tag></item>
+      <item>two<tag>$._value="2";</tag></item>
+      <item>too<tag>$._value="2";</tag></item>
+      <item>to<tag>$._value="2";</tag></item>
+      <item>three<tag>$._value="3";</tag></item>
+      <item>tree<tag>$._value="3";</tag></item>
+      <item>four<tag>$._value="4";</tag></item>
+      <item>for<tag>$._value="4";</tag></item>
+      <item>fore<tag>$._value="4";</tag></item>
+      <item>five<tag>$._value="5";</tag></item>
+      <item>six<tag>$._value="6";</tag></item>
+      <item>sics<tag>$._value="6";</tag></item>
+      <item>seven<tag>$._value="7";</tag></item>
+      <item>eight<tag>$._value="8";</tag></item>
+      <item>ate<tag>$._value="8";</tag></item>
+      <item>nine<tag>$._value="9";</tag></item>
+    </one-of>
+  </rule>
+
+</grammar>

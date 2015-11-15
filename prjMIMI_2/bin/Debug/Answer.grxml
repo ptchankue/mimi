@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<grammar version="1.0" xml:lang="en-GB" mode="voice" root="main" xmlns="http://www.w3.org/2001/06/grammar"
+tag-format="semantics/1.0">
+
+  <rule id="main" scope="public">
+      <item repeat="0-1">
+        <ruleref uri="#yes" type="application/srgs+xml"/>
+      </item>
+      <item repeat="0-1">
+        <ruleref uri="#no" type="application/srgs+xml"/>
+      </item>
+      <item repeat="0-1">
+        <ruleref uri="#cancel" type="application/srgs+xml"/>
+      </item>
+    </rule>
+  
+      <rule id="yes">
+        <one-of>
+          <item>yes</item>
+          <item>yeah</item>
+          <item>yeh</item>
+          <item> ya </item>
+          <item> yup </item>
+          <item> yep </item>
+          <item> indeed </item>
+          <item> positive </item>
+          <item> ok </item>
+          <item> sure </item>
+          <item> affirmative </item>
+          <item> agreed </item>
+          <item> right </item>
+          <item> correct </item>
+        </one-of>
+        <tag> out.answer="yes"; </tag>        
+      </rule>
+      
+      <rule id="no">
+        <one-of>
+          <item>no</item>
+          <item> nay </item>
+          <item> nah </item>
+          <item> nope </item>
+          <item> negative </item>
+        </one-of> 
+        <tag> out.answer="no" </tag>
+      </rule>
+
+      <rule id="cancel" scope="private">
+        <one-of>
+          <item>restart</item>
+          <item>reset</item>
+          <item>cancel</item>
+        </one-of>
+        <tag>out.cancel="cancel"</tag>
+      </rule>
+</grammar>

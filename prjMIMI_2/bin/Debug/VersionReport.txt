@@ -1,0 +1,14 @@
+
+
+
+
+27 May
+Log issue solved: unable to record date properly
+use the function DateTime.Now.ToLongTimeString()
+
+
+28/May
+Double grounding solved, now the task 12 can work well
+the test n==10 triggered automatically the call or sms, when the user pushed the button it called the function a second time
+
+Speech profile that work well for me: Default

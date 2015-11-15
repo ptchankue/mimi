@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<grammar version="1.0" xml:lang="en-GB" mode="voice" root="main" xmlns="http://www.w3.org/2001/06/grammar"
+tag-format="semantics/1.0">
+
+  <rule id="main" scope="public">
+      <one-of>
+          <item>
+            one<tag>out.option="one"</tag>
+          </item>
+          <item>
+            two<tag>out.option="two"</tag>
+          </item>
+          <item>
+            three<tag>out.option="three"</tag>
+         </item>
+          <item>
+            the first<tag>out.option="one"</tag>
+          </item>
+      </one-of>
+
+      <item repeat="0-1">
+        <ruleref uri="#cancel" type="application/srgs+xml"/>
+      </item>
+  </rule>
+  
+  <rule id="cancel" scope="private">
+    <one-of>
+      <item>restart</item>
+      <item>reset</item>
+      <item>cancel</item>
+      <item>exit</item>
+    </one-of>
+    <tag>out.cancel="cancel"</tag>
+  </rule>
+  
+</grammar>

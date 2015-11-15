@@ -1,0 +1,32 @@
+C:\Users\s208022767\Documents\Visual Studio 2008\Projects\prjMIMI_2\prjMIMI_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\s208022767\Documents\Visual Studio 2008\Projects\prjMIMI_2\prjMIMI_2\obj\Debug\prjMIMI_2.Properties.Resources.resources
+C:\Users\s208022767\Documents\Visual Studio 2008\Projects\prjMIMI_2\prjMIMI_2\obj\Debug\prjMIMI_2.csproj.GenerateResource.Cache
+C:\Users\s208022767\Documents\Visual Studio 2008\Projects\prjMIMI_2\prjMIMI_2\obj\Debug\prjMIMI_2.frmCANbus.resources
+C:\Users\s208022767\Documents\Visual Studio 2008\Projects\prjMIMI_2\prjMIMI_2\obj\Debug\prjMIMI_2.frmEvaluation.resources
+C:\Users\s208022767\Documents\Visual Studio 2008\Projects\prjMIMI_2\prjMIMI_2\obj\Debug\prjMIMI_2.frmNetwork.resources
+C:\Users\s208022767\Documents\Visual Studio 2008\Projects\prjMIMI_2\prjMIMI_2\obj\Debug\prjMIMI_2.frmSplash.resources
+C:\Users\s208022767\Documents\Visual Studio 2008\Projects\prjMIMI_2\prjMIMI_2\bin\Debug\prjMIMI_2.exe
+C:\Users\s208022767\Documents\Visual Studio 2008\Projects\prjMIMI_2\prjMIMI_2\bin\Debug\prjMIMI_2.pdb
+C:\Users\s208022767\Documents\Visual Studio 2008\Projects\prjMIMI_2\prjMIMI_2\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\s208022767\Documents\Visual Studio 2008\Projects\prjMIMI_2\prjMIMI_2\obj\Debug\prjMIMI_2.exe
+C:\Users\s208022767\Documents\Visual Studio 2008\Projects\prjMIMI_2\prjMIMI_2\obj\Debug\prjMIMI_2.pdb
+C:\Users\s208022767\Documents\Visual Studio 2008\Projects\prjMIMI_2\prjMIMI_2\obj\Debug\prjMIMI_2.frmTest.resources
+C:\Users\s208022767\Documents\Visual Studio 2008\Projects\prjMIMI_2\prjMIMI_2\obj\Debug\prjMIMI_2.frmNN.resources
+C:\Users\s208022767\Documents\Visual Studio 2008\Projects\prjMIMI_2\prjMIMI_2\obj\Debug\prjMIMI_2.frmBluetooth.resources
+C:\Users\s208022767\Documents\Visual Studio 2008\Projects\prjMIMI_2\prjMIMI_2\obj\Debug\prjMIMI_2.frmCar.resources
+C:\Data\Masters\prjMIMI_2\prjMIMI_2\obj\Debug\prjMIMI_2.pdb
+C:\Data\Masters\prjMIMI_2\prjMIMI_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\Masters\prjMIMI_2\prjMIMI_2\bin\Debug\prjMIMI_2.exe
+C:\Data\Masters\prjMIMI_2\prjMIMI_2\bin\Debug\prjMIMI_2.pdb
+C:\Data\Masters\prjMIMI_2\prjMIMI_2\obj\Debug\prjMIMI_2.frmCar.resources
+C:\Data\Masters\prjMIMI_2\prjMIMI_2\obj\Debug\prjMIMI_2.frmBluetooth.resources
+C:\Data\Masters\prjMIMI_2\prjMIMI_2\obj\Debug\prjMIMI_2.frmCANbus.resources
+C:\Data\Masters\prjMIMI_2\prjMIMI_2\obj\Debug\prjMIMI_2.frmEvaluation.resources
+C:\Data\Masters\prjMIMI_2\prjMIMI_2\obj\Debug\prjMIMI_2.frmNetwork.resources
+C:\Data\Masters\prjMIMI_2\prjMIMI_2\obj\Debug\prjMIMI_2.frmNN.resources
+C:\Data\Masters\prjMIMI_2\prjMIMI_2\obj\Debug\prjMIMI_2.frmSplash.resources
+C:\Data\Masters\prjMIMI_2\prjMIMI_2\obj\Debug\prjMIMI_2.frmTest.resources
+C:\Data\Masters\prjMIMI_2\prjMIMI_2\obj\Debug\prjMIMI_2.Properties.Resources.resources
+C:\Data\Masters\prjMIMI_2\prjMIMI_2\obj\Debug\GenerateResource.read.1.tlog
+C:\Data\Masters\prjMIMI_2\prjMIMI_2\obj\Debug\GenerateResource.write.1.tlog
+C:\Data\Masters\prjMIMI_2\prjMIMI_2\obj\Debug\prjMIMI_2.exe

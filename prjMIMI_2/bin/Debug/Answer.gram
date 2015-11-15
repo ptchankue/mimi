@@ -1,0 +1,87 @@
+
+  <rule id="color" scope="private">
+    <one-of>
+      <item>yellow <tag> out.color="yellow"</tag></item>
+      <item>green<tag> out.color="green"</tag></item>
+      <item>blue<tag> out.color="blue"</tag></item>
+    </one-of>
+  </rule>
+
+  <rule id="answer" scope="private">
+    <one-of>
+      <item>
+        <one-of>
+          <item> yes </item>
+          <item> yeah </item>
+          <item> yeh </item>
+          <item> ya </item>
+          <item> yup </item>
+          <item> yep </item>
+          <item> indeed </item>
+          <item> positive </item>
+          <item> ok </item>
+          <item> sure </item>
+          <item> affirmative </item>
+          <item> agreed </item>
+          <item> right </item>
+          <item> correct </item>
+        </one-of>
+        <item repeat="0-1"> please </item>
+        <tag> out.answer="yes"; </tag>
+      </item>
+      
+      <item>
+        <one-of>
+          <item> no </item>
+          <item> nay </item>
+          <item> nah </item>
+          <item> nope </item>
+          <item> negative </item>
+        </one-of>
+        <item>
+        I
+        <one-of>
+          <item> wouldn't </item>
+          <item> would not </item>
+          <item> do not </item>
+          <item> don't </item>
+          <item> don't think so </item>
+        </one-of>
+      </item>
+      <tag> out.answer="no" </tag>
+      </item>      
+    </one-of>    
+  </rule>
+  
+  <rule id="Cancel" scope="public">
+		<example> cancel </example>
+		<example> wait a minute </example>
+		<example> hold it </example>
+		<example> exit </example>
+		<example> I'm not sure </example>
+		<item>
+			<one-of>
+				<item> wait </item>
+				<item> stop </item>
+				<item> just a 
+				<one-of>
+						<item> minute </item>
+						<item> moment </item>
+					</one-of>
+			</item>
+				<item> wait a 
+				<one-of>
+						<item> minute </item>
+						<item> moment </item>
+					</one-of>
+			</item>
+				<item> I'm not sure </item>
+				<item> hold it </item>
+				<item> go back </item>
+				<item> cancel </item>
+				<item> hold on </item>
+				<item> exit </item>
+			</one-of>
+		</item>
+		<tag> out.answer="cancel"; </tag>
+	</rule>

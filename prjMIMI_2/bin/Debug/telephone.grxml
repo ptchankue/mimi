@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<grammar version="1.0" xml:lang="en-GB" mode="voice" root="zero_to_fifty" xmlns="http://www.w3.org/2001/06/grammar"
+tag-format="semantics/1.0">
+<rule id="zero_to_fifty" scope="public">
+	<one-of>
+    <item>zero<tag>out.Number= "0";</tag></item>
+    <item>oh<tag>out.Number= "0";</tag></item>
+    <item>one<tag>out.Number= "1";</tag></item>
+    <item>two<tag>out.Number= "2";</tag></item>
+    <item>three<tag>out.Number= "3";</tag></item>
+    <item>four<tag>out.Number= "4";</tag></item>
+    <item>five<tag>out.Number= "5";</tag></item>
+    <item>six<tag>out.Number= "6";</tag></item>
+    <item>seven<tag>out.Number= "7";</tag></item>
+    <item>eight<tag>out.Number= "8";</tag></item>
+    <item>nine<tag>out.Number= "9";</tag></item>
+	
+    <item>ten<tag>out.Number= "10";</tag></item>
+    <item>eleven<tag>out.Number= "11";</tag></item>
+    <item>twelve<tag> out.Number= "12";</tag></item>
+    <item>thriteen<tag>out.Number= "13";</tag></item>
+    <item>fourteen<tag>out.Number= "14";</tag></item>
+    <item>fifteen<tag>out.Number= "15";</tag></item>
+    <item>sixteen<tag>out.Number= "16";</tag></item>
+    <item>seventeen <tag>out.Number= "17";</tag></item>
+    <item>eighteen <tag>out.Number= "18";</tag></item>
+    <item>nineteen <tag>out.Number= "19";</tag></item>
+	
+    <item>twenty <tag>out.Number= "20";</tag></item>
+    <item>twenty one<tag>out.Number= "21";</tag></item>
+	  <item>twenty two<tag>out.Number= "22";</tag></item>
+	  <item>twenty three<tag>out.Number= "23";</tag></item>
+	  <item>twenty four<tag>out.Number= "24";</tag></item>
+	  <item>twenty five<tag>out.Number= "25";</tag></item>
+	  <item>twenty six<tag>out.Number= "26";</tag></item>
+	  <item>twenty seven<tag>out.Number= "27";</tag></item>
+	  <item>twenty eight<tag>out.Number= "28";</tag></item>
+    <item>twenty nine<tag>out.Number= "29";</tag></item>
+		
+	  <item>thirty <tag>out.Number= "30";</tag></item>
+    <item>thirty one<tag>out.Number= "31";</tag></item>
+	  <item>thirty two<tag>out.Number= "32";</tag></item>
+	  <item>thirty three<tag>out.Number= "33";</tag></item>
+	  <item>thirty four<tag>out.Number= "34";</tag></item>
+	  <item>thirty five<tag>out.Number= "35";</tag></item>
+	  <item>thirty six<tag>out.Number= "36";</tag></item>
+	  <item>thirty seven<tag>out.Number= "37";</tag></item>
+	  <item>thirty eight<tag>out.Number= "38";</tag></item>
+    <item>thirty nine<tag>out.Number= "39";</tag></item>
+	
+	  <item>forty <tag>out.Number= "40";</tag></item>
+    <item>forty one<tag>out.Number= "41";</tag></item>
+	  <item>forty two<tag>out.Number= "42";</tag></item>
+	  <item>forty three<tag>out.Number= "43";</tag></item>
+	  <item>forty four<tag>out.Number= "44";</tag></item>
+	  <item>forty five<tag>out.Number= "45";</tag></item>
+	  <item>forty six<tag>out.Number= "46";</tag></item>
+	  <item>forty seven<tag>out.Number= "47";</tag></item>
+	  <item>forty eight<tag>out.Number= "48";</tag></item>
+    <item>forty nine<tag>out.Number= "49";</tag></item>
+	
+	  <item>fifty <tag>out.Number= "50";</tag></item>
+    <item>fifty one<tag>out.Number= "51";</tag></item>
+	  <item>fifty two<tag>out.Number= "52";</tag></item>
+	  <item>fifty three<tag>out.Number= "53";</tag></item>
+	  <item>fifty four<tag>out.Number= "54";</tag></item>
+	  <item>fifty five<tag>out.Number= "55";</tag></item>
+	  <item>fifty six<tag>out.Number= "56";</tag></item>
+	  <item>fifty seven<tag>out.Number= "57";</tag></item>
+	  <item>fifty eight<tag>out.Number= "58";</tag></item>
+    <item>fifty nine<tag>out.Number= "59";</tag></item>
+	
+	  <item>sixty <tag>out.Number= "60";</tag></item>
+    <item>sixty one<tag>out.Number= "61";</tag></item>
+	  <item>sixty two<tag>out.Number= "62";</tag></item>
+	  <item>sixty three<tag>out.Number= "63";</tag></item>
+	  <item>sixty four<tag>out.Number= "64";</tag></item>
+	  <item>sixty five<tag>out.Number= "65";</tag></item>
+	  <item>sixty six<tag>out.Number= "66";</tag></item>
+	  <item>sixty seven<tag>out.Number= "67";</tag></item>
+	  <item>sixty eight<tag>out.Number= "68";</tag></item>
+    <item>sixty nine<tag>out.Number= "69";</tag></item>
+	
+	<item>seventy <tag>out.Number= "70";</tag></item>
+    <item>seventy one<tag>out.Number= "71";</tag></item>
+	  <item>seventy two<tag>out.Number= "72";</tag></item>
+	  <item>seventy three<tag>out.Number= "73";</tag></item>
+	  <item>seventy four<tag>out.Number= "74";</tag></item>
+	  <item>seventy five<tag>out.Number= "75";</tag></item>
+	  <item>seventy six<tag>out.Number= "76";</tag></item>
+	  <item>seventy seven<tag>out.Number= "77";</tag></item>
+	  <item>seventy eight<tag>out.Number= "78";</tag></item>
+    <item>seventy nine<tag>out.Number= "79";</tag></item>
+	
+	  <item>eighty <tag>out.Number= "80";</tag></item>
+    <item>eighty one<tag>out.Number= "81";</tag></item>
+	  <item>eighty two<tag>out.Number= "82";</tag></item>
+	  <item>eighty three<tag>out.Number= "83";</tag></item>
+	  <item>eighty four<tag>out.Number= "84";</tag></item>
+	  <item>eighty five<tag>out.Number= "85";</tag></item>
+	  <item>eighty six<tag>out.Number= "86";</tag></item>
+	  <item>eighty seven<tag>out.Number= "87";</tag></item>
+	  <item>eighty eight<tag>out.Number= "88";</tag></item>
+    <item>eighty nine<tag>out.Number= "89";</tag></item>
+	
+	  <item>ninety <tag>out.Number= "90";</tag></item>
+    <item>ninety one<tag>out.Number= "91";</tag></item>
+	  <item>ninety two<tag>out.Number= "92";</tag></item>
+	  <item>ninety three<tag>out.Number= "93";</tag></item>
+	  <item>ninety four<tag>out.Number= "94";</tag></item>
+	  <item>ninety five<tag>out.Number= "95";</tag></item>
+	  <item>ninety six<tag>out.Number= "96";</tag></item>
+	  <item>ninety seven<tag>out.Number= "97";</tag></item>
+	  <item>ninety eight<tag>out.Number= "98";</tag></item>
+    <item>ninety nine<tag>out.Number= "99";</tag></item>
+	
+	  <item>double zero<tag>out.Number= "00";</tag></item>
+    <item>double one<tag>out.Number= "11";</tag></item>
+	  <item>double two<tag>out.Number= "22";</tag></item>
+	  <item>double three<tag>out.Number= "33";</tag></item>
+	  <item>double four<tag>out.Number= "44";</tag></item>
+	  <item>double five<tag>out.Number= "55";</tag></item>
+	  <item>double six<tag>out.Number= "66";</tag></item>
+	  <item>double seven<tag>out.Number= "77";</tag></item>
+	  <item>double eight<tag>out.Number= "88";</tag></item>
+    <item>double nine<tag>out.Number= "99";</tag></item>
+	
+	  <item>triple zero<tag>out.Number= "000";</tag></item>
+    <item>triple one<tag>out.Number= "111";</tag></item>
+	  <item>triple two<tag>out.Number= "222";</tag></item>
+	  <item>triple three<tag>out.Number= "333";</tag></item>
+	  <item>triple four<tag>out.Number= "444";</tag></item>
+	  <item>triple five<tag>out.Number= "555";</tag></item>
+	  <item>triple six<tag>out.Number= "666";</tag></item>
+	  <item>triple seven<tag>out.Number= "777";</tag></item>
+	  <item>triple eight<tag>out.Number= "888";</tag></item>
+    <item>triple nine<tag>out.Number= "999";</tag></item>
+    <item>oh seven<tag>out.Number= "07";</tag></item>
+    <item>zero seven<tag>out.Number= "07";</tag></item>
+    <item>oh eight<tag>out.Number= "08";</tag></item>
+    
+	</one-of>
+  <!--<item repeat="0-1"><ruleref uri="calltext.grxml#cancel" type="application/srgs+xml"/></item>-->
+</rule>
+  
+    
+</grammar>

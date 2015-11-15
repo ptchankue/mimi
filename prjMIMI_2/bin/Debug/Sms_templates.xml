@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sms>
+  <item id="1">I am running late </item>
+  <item id="2">Appointment postponed </item>
+  <item id="3">I will call you later </item>
+</sms>
